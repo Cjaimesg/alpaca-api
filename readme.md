@@ -28,6 +28,16 @@
     python alpaca/test.py
     ```
 
+3. **Get open positions**:
+    ```sh
+    python alpaca/test_get_open_pos.py
+    ```
+
+4. **Get orders**:
+    ```sh
+    python alpaca/test_get_orders.py
+    ```
+
 ## License
 
 This project is licensed under the MIT License.
