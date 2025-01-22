@@ -1,13 +1,4 @@
 
-## Files
-
-- **.gitignore**: Specifies files to be ignored by git.
-- **alpaca/config.ini**: Configuration file containing API keys and base URL.
-- **alpaca/config.ini_example**: Example configuration file with placeholder values.
-- **alpaca/test_config.py**: Script to read and validate the configuration file.
-- **alpaca/test.py**: Script to interact with the Alpaca API using the configuration.
-- **requirements.txt**: Lists the dependencies required for the project.
-
 ## Setup
 
 1. **Clone the repository**:
